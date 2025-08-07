@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/app.ico</file>
+        <file>res/bomb-1.png</file>
+        <file>res/bomb-2.png</file>
+        <file>res/bomb-3.png</file>
+        <file>res/bomb-4.png</file>
+        <file>res/bomb-5.png</file>
+        <file>res/bomb-6.png</file>
+        <file>res/bomb-7.png</file>
+        <file>res/hero.png</file>
+        <file>res/img_bg_level_2.jpg</file>
+        <file>res/img-plane_1.png</file>
+        <file>res/img_bg_level_3.jpg</file>
+        <file>res/bomb.wav</file>
+        <file>res/happykid.wav</file>
+        <file>res/bfsj.png</file>
+        <file>res/a-01.png</file>
+        <file>res/c-05b.png</file>
+        <file>res/boss.png</file>
+        <file>res/hit.wav</file>
+        <file>res/hit-1.png</file>
+        <file>res/hit-2.png</file>
+        <file>res/hit-3.png</file>
+        <file>res/hit-4.png</file>
+        <file>res/hit-5.png</file>
+        <file>res/hit-6.png</file>
+        <file>res/bullet_11.png</file>
+    </qresource>
+</RCC>
